@@ -1,0 +1,23 @@
+{
+    "items":[
+        {
+            "item_name": "Papper",
+            "price":2,
+            "image_url": "http://www.sclance.com/pngs/computer-png/computer_png_310551.png",
+            "description": "spicy"
+       },
+       {
+            "item_name": "Toy Car",
+            "price":5,
+            "image_url": "https://png.pngtree.com/element_pic/16/11/28/47d236453a25b94ecf3f44ecaf73180e.jpg",
+            "description": "Super Fast"   
+       },
+       {
+       "item_name": "Mac Book",
+       "price":5999,
+       "image_url": "http://www.sclance.com/pngs/computer-png/computer_png_310551.png",
+       "description": "Super Smart"
+       }
+
+    ]
+}
